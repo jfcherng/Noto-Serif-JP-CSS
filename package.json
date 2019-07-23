@@ -1,0 +1,22 @@
+{
+  "name": "noto-serif-jp",
+  "version": "7.0.0",
+  "description": "(Noto Serif JP) Optimized CSS file and font files for local host.",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfcherng/Noto-Serif-JP-CSS.git"
+  },
+  "keywords": [
+    "font",
+    "noto-serif"
+  ],
+  "author": "Jack Cherng <jfcherng@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jfcherng/Noto-Serif-JP-CSS/issues"
+  },
+  "homepage": "https://github.com/jfcherng/Noto-Serif-JP-CSS#readme"
+}
